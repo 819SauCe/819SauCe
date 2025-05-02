@@ -1,58 +1,54 @@
 # João Vitor Santana Oqueres
+### Full-Stack Developer | Hardware Integrator
 
-## 🧠 Full-Stack Developer | Punk Life Coder
-
-### 📍 Jaboticabal/SP
-
-### 📞 Contato
-- **Telefone:** (16) 98859-9887
-- **E-mail:** [joaovitor819oqueres@gmail.com](mailto:joaovitor819oqueres@gmail.com)
+📍 Jaboticabal/SP  
+📞 (16) 98859-9887  
+📧 [joaovitor819oqueres@gmail.com](mailto:joaovitor819oqueres@gmail.com)
 
 ---
 
-## Sobre Mim
+## 🧠 Sobre Mim
 
-Sou dev full-stack, estudante de Sistemas de Informação e metido a líder de equipe.  
-Viciado em tecnologia
+Sou desenvolvedor full-stack com paixão por tecnologia e integração de hardware.  
+Estudo Sistemas de Informação e atuo com foco em soluções ágeis, eficientes e escaláveis.
+
 ---
 
 ## 🚀 Stack Atual
-- **Linguagens:** Python, JavaScript, HTML, CSS, Rust, C
-- **Frameworks/Libraries:** Svelte, Vue.js, Liquid
-- **Banco de Dados:** PostgreSQL
-- **Protocolos:** REST, WebSocket
-- **Hardware:** ESP32, Arduino
-- **Outros:** SCADA Systems, redes e cabeamento
+
+- **Linguagens:** Python, JavaScript, HTML, CSS, Rust, C  
+- **Frameworks/Libraries:** Svelte, Vue.js, Liquid  
+- **Banco de Dados:** PostgreSQL  
+- **Protocolos:** REST, WebSocket  
+- **Hardware:** ESP32, Arduino  
+- **Outros:** redes, cabeamento, sistemas embarcados
 
 ---
 
 ## 🔥 Experiência
 
-**Estagiário Full Stack & Líder de Equipe**  
-Global Trade BR (Global-X, Biosigma, eLab) | 2024-2025
-
-- Desenvolvimento de sistemas web e APIs
-- Banco de dados e infraestrutura
-- Liderança técnica focada em IA
+- Desenvolvimento de sistemas web e APIs  
+- Banco de dados e infraestrutura  
+- Responsável técnico em projetos de IA  
 - WebSockets e integração de hardware
 
 ---
 
-## 🎯 Foco Atual
-- Desenvolver sistemas SCADA com Arduino e ESP32
-- Aprender Rust na marra
-- Integrar APIs a projetos pessoais
+## 🎯 Objetivos Técnicos Atuais
+
+- Aprender Rust na marra  
+- Integrar APIs a projetos pessoais  
 - Dominar uns riffs de guitarra e fazer barulho
 
 ---
 
-## 🤘 Valores
+## 💡 Filosofia Dev
 
-- Liberdade > Autoridade
-- Código livre, cultura livre
-- DIY em tudo (inclusive no aprendizado)
-- Respeito acima de tudo
+- Liberdade e autonomia acima da burocracia  
+- Código aberto como forma de resistência  
+- Aprendizado contínuo e autodidata  
+- Cultura maker e respeito à comunidade
 
 ---
 
-_"Knowledge is free. We are Anonymous. We are legion. Expect us."_  
+> _"Aprender, construir, compartilhar."_
