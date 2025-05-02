@@ -44,7 +44,6 @@ Estudo Sistemas de Informação e atuo com foco em soluções ágeis, eficientes
 
 ## 💡 Filosofia Dev
 
-- Liberdade e autonomia acima da burocracia  
 - Código aberto como forma de resistência  
 - Aprendizado contínuo e autodidata  
 - Cultura maker e respeito à comunidade
