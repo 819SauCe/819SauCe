@@ -2,8 +2,6 @@
 ### Full-Stack Developer | Hardware Integrator
 
 📍 Jaboticabal/SP  
-📞 (16) 98859-9887  
-📧 [joaovitor819oqueres@gmail.com](mailto:joaovitor819oqueres@gmail.com)
 
 ---
 
