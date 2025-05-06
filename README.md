@@ -18,8 +18,7 @@ Estudo Sistemas de Informação e atuo com foco em soluções ágeis, eficientes
 - **Frameworks/Libraries:** Svelte, Vue.js, Liquid  
 - **Banco de Dados:** PostgreSQL  
 - **Protocolos:** REST, WebSocket  
-- **Hardware:** ESP32, Arduino  
-- **Outros:** redes, cabeamento, sistemas embarcados
+- **Outros:** redes, cabeamento
 
 ---
 
@@ -34,9 +33,8 @@ Estudo Sistemas de Informação e atuo com foco em soluções ágeis, eficientes
 
 ## 🎯 Objetivos Técnicos Atuais
 
-- Aprender Rust na marra  
+- Melhorar a cada dia em Rust
 - Integrar APIs a projetos pessoais  
-- Dominar uns riffs de guitarra e fazer barulho
 
 ---
 
