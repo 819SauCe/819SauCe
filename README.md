@@ -22,15 +22,15 @@ Uso Docker pra praticamente tudo. Gosto de como ele simplifica o processo de hos
 
 Sempre preferi JSON pela clareza e simplicidade. Gosto de como ele é direto, leve e fácil de manipular tanto em scripts quanto em aplicações completas. Comparado ao XML, ele exige menos ruído, é mais legível e muito mais prático pra trabalhar com APIs modernas. Toda vez que preciso trafegar ou armazenar dados estruturados, JSON é minha primeira escolha — encaixa perfeitamente com o estilo de desenvolvimento que eu sigo.
 
-### Outras Skills
-- html
-- css
-- js
-- vue.js
-- .liquid
+## 🛠️ Outras Skills 🛠️
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- Liquid (Shopfy)
 
-### ⏱️ em desenvolvimento ⏱️
-- Clound
-- Scala
-- php
-- CyberSecurity
+## ⏱️ Em Desenvolvimento ⏱️
+- ☁️ Cloud
+- 🧠 Scala
+- 🐘 PHP
+- 🛡️ Cybersecurity
