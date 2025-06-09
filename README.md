@@ -9,3 +9,7 @@ Svelte me atrai pelo minimalismo e pela eficiência. Ao contrário de outras sol
 ### 🐘 PostgreSQL 🐘
 
 PostgreSQL é o banco que mais faz sentido pra mim quando o foco é performance com consistência. Escolhi ele porque entrega o que eu mais valorizo: velocidade, estabilidade e recursos avançados sem complicação. Gosto de como ele lida bem com cargas pesadas, estrutura relacional clara e suporte a tipos complexos como JSON. Funciona perfeitamente com Rust e é sempre minha primeira escolha quando quero algo confiável pra produção.
+
+### 🐍 Python 🐍
+
+Python foi minha porta de entrada pro backend. Comecei usando a linguagem pra facilitar meu trabalho como editor, criando scripts que organizavam vídeos e perfis no Instagram. Desde então, virou uma aliada quando preciso de agilidade e praticidade. É a linguagem que escolho quando quero prototipar rápido, automatizar processos ou integrar com APIs e serviços externos. Mesmo depois de avançar pra ferramentas mais performáticas, continuo usando Python sempre que o foco é produtividade e solução direta.
