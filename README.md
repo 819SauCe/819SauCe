@@ -30,7 +30,7 @@ Sempre preferi JSON pela clareza e simplicidade. Gosto de como ele é direto, le
 - .liquid
 
 ### ⏱️ em desenvolvimento ⏱️
-<Clound />
-<Scala />
-<php />
-<CyberSecurity />
+- <Clound />
+- <Scala />
+- <php />
+- <CyberSecurity />
