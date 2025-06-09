@@ -13,3 +13,24 @@ PostgreSQL é o banco que mais faz sentido pra mim quando o foco é performance 
 ### 🐍 Python 🐍
 
 Python foi minha porta de entrada pro backend. Comecei usando a linguagem pra facilitar meu trabalho como editor, criando scripts que organizavam vídeos e perfis no Instagram. Desde então, virou uma aliada quando preciso de agilidade e praticidade. É a linguagem que escolho quando quero prototipar rápido, automatizar processos ou integrar com APIs e serviços externos. Mesmo depois de avançar pra ferramentas mais performáticas, continuo usando Python sempre que o foco é produtividade e solução direta.
+
+### 🐳 Docker 🐳
+
+Uso Docker pra praticamente tudo. Gosto de como ele simplifica o processo de hospedar sites e APIs — hoje prefiro muito mais subir um container do que configurar NGINX ou PM2. Além de facilitar o deploy dos meus backends, ele garante que o ambiente seja sempre o mesmo, o que economiza tempo e evita dor de cabeça. É uma ferramenta que virou padrão no meu fluxo, seja pra testes locais, produção ou automações.
+
+### 📦 JSON > XML 📦
+
+Sempre preferi JSON pela clareza e simplicidade. Gosto de como ele é direto, leve e fácil de manipular tanto em scripts quanto em aplicações completas. Comparado ao XML, ele exige menos ruído, é mais legível e muito mais prático pra trabalhar com APIs modernas. Toda vez que preciso trafegar ou armazenar dados estruturados, JSON é minha primeira escolha — encaixa perfeitamente com o estilo de desenvolvimento que eu sigo.
+
+### Outras Skills
+- html
+- css
+- js
+- vue.js
+- .liquid
+
+### ⏱️ em desenvolvimento ⏱️
+<Clound />
+<Scala />
+<php />
+<CyberSecurity />
