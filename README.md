@@ -1,36 +1,93 @@
-# ViitoJooj -- Dev FullStack
-## Stack
-### 🦀 Rust 🦀
-Rust é a minha linguagem favorita por um motivo bem simples: ela me desafia a ser um programador melhor. Cada detalhe — desde o sistema de tipos até a gestão de memória sem garbage collector, me força a pensar de forma clara e a escrever código seguro por padrão. O que realmente me encanta é como ela une um desempenho incrível com confiabilidade, sem perder a expressividade. Eu uso Rust principalmente para backend, integração com APIs críticas, automações complexas e qualquer aplicação onde a performance e a robustez são essenciais. Escrever em Rust pode ser desafiador, mas é extremamente gratificante, cada projeto que faço com ela me ajuda a evoluir tecnicamente.
+<br clear="both">
 
-### 🔥 SvelteKit 🔥
-Svelte me atrai pelo minimalismo e pela eficiência. Ao contrário de outras soluções frontend, ele compila o código para JavaScript puro, eliminando o peso de runtimes em tempo real. Isso resulta em interfaces extremamente leves e rápidas, com uma curva de aprendizado muito mais amigável. Escolhi Svelte porque ele me permite focar em entregar experiências fluídas, sem me perder em estruturas e configurações excessivas. Gosto especialmente da forma como ele lida com reatividade de forma direta e intuitiva, o que torna o desenvolvimento mais ágil e o código mais legível.
+<h1 align="center">Supp, my name is Vitor</h1>
 
-### 🐘 PostgreSQL 🐘
+###
 
-PostgreSQL é o banco que mais faz sentido pra mim quando o foco é performance com consistência. Escolhi ele porque entrega o que eu mais valorizo: velocidade, estabilidade e recursos avançados sem complicação. Gosto de como ele lida bem com cargas pesadas, estrutura relacional clara e suporte a tipos complexos como JSON. Funciona perfeitamente com Rust e é sempre minha primeira escolha quando quero algo confiável pra produção.
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-santana-oqueres-96b197298/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/viitojooj/?utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-### 🐍 Python 🐍
+###
 
-Python foi minha porta de entrada pro backend. Comecei usando a linguagem pra facilitar meu trabalho como editor, criando scripts que organizavam vídeos e perfis no Instagram. Desde então, virou uma aliada quando preciso de agilidade e praticidade. É a linguagem que escolho quando quero prototipar rápido, automatizar processos ou integrar com APIs e serviços externos. Mesmo depois de avançar pra ferramentas mais performáticas, continuo usando Python sempre que o foco é produtividade e solução direta.
+<h2 align="left">About me</h2>
 
-### 🐳 Docker 🐳
+###
 
-Uso Docker pra praticamente tudo. Gosto de como ele simplifica o processo de hospedar sites e APIs — hoje prefiro muito mais subir um container do que configurar NGINX ou PM2. Além de facilitar o deploy dos meus backends, ele garante que o ambiente seja sempre o mesmo, o que economiza tempo e evita dor de cabeça. É uma ferramenta que virou padrão no meu fluxo, seja pra testes locais, produção ou automações.
+<p align="left">Hi, I'm Vitor an 20 year old Full Stack developer based in Jaboticabal, SP, Brazil. I'm fully focused on evolving as a dev using Rust, Python, Java, SvelteKit, Vue.js, PostgreSQL, Docker and more</p>
 
-### 📦 JSON > XML 📦
+###
 
-Sempre preferi JSON pela clareza e simplicidade. Gosto de como ele é direto, leve e fácil de manipular tanto em scripts quanto em aplicações completas. Comparado ao XML, ele exige menos ruído, é mais legível e muito mais prático pra trabalhar com APIs modernas. Toda vez que preciso trafegar ou armazenar dados estruturados, JSON é minha primeira escolha — encaixa perfeitamente com o estilo de desenvolvimento que eu sigo.
+<h2 align="left">Skills</h2>
 
-## 🛠️ Outras Skills 🛠️
-- HTML
-- CSS
-- JavaScript
-- Vue.js
-- Liquid (Shopfy)
+###
 
-## ⏱️ Em Desenvolvimento ⏱️
-- ☁️ Cloud
-- 🧠 Scala
-- 🐘 PHP
-- 🛡️ Cybersecurity
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h2 align="left">Studying</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
+
+###
+
+<h1 align="left">working!</h1>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/819SauCe/819SauCe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/819SauCe/819SauCe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/819SauCe/819SauCe/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=819SauCe.819SauCe&"  />
+</div>
+
+###
