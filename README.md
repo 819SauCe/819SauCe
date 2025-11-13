@@ -52,3 +52,26 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 - Focused on Go, Rust and Tauri for real applications
 - I love to create things that are quick, simple and useful
 - Always trying to evolve my stack and workflow
+
+## Workflow / Tooling
+
+- VSCode  
+- Git + GitHub & BitBucket
+- Docker Compose  
+- Linux (Arch)  
+- Makefiles
+
+
+## GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight" />
+</p>
+
+
+## 📫 Contact
+
+- LinkedIn: viitojooj
+- Discord:  sauce819
+- Email:    joaovitor819oqueres@gmail.com
