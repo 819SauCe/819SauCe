@@ -5,94 +5,51 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 ---
 
-## 🚀 Tech Focus (as Cards)
+## 🚀 Tech Focus
 
 ### 🔧 Back end
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+<div align="left">
 
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Go</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Rust</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>PostgreSQL</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>MongoDB</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Docker</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>NGINX</strong>
-  </div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white" />
 
 </div>
 
 ---
 
 ### 🎨 Front end
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+<div align="left">
 
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Svelte</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>React</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>TypeScript</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>JavaScript</strong>
-  </div>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
 
 ---
 
 ### 🖥️ Desktop
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+<div align="left">
 
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Tauri</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>SQLite</strong>
-  </div>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
 
 ---
 
 ### ☁️ Cloud & Server
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+<div align="left">
 
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Azure</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>AWS</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Linux</strong>
-  </div>
-
-  <div align="center" style="border: 1px solid #333; padding: 10px 16px; border-radius: 10px; width: 100px;">
-    <strong>Docker</strong>
-  </div>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
+
