@@ -4,7 +4,7 @@ Full Stack Developer focused on creating fast, modern and scalable applications.
 
 # Tech Focus
 
-## back end:
+## Back end:
 <div style="display: flex; gap: 10px;">
 <img height="45" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img height="45" title="Rust" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
@@ -15,4 +15,12 @@ Full Stack Developer focused on creating fast, modern and scalable applications.
 <img height="45" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img height="45" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img height="45" title="NGINX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+</div>
+
+## Front end:
+<div style="display: flex; gap: 10px;">
+<img height="45" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img height="45" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="45" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="45" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
