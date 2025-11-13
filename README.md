@@ -1,11 +1,13 @@
-# Sup, I'm Vitor
+# 👋 Hey, I'm Vitor
 
-Full Stack Developer focused on creating fast, modern and scalable applications.  
-Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for backend and desktop.
+Full Stack Developer focused on building **fast, modern and scalable applications**.  
+At the moment, my main stack gira em torno de **Go, Rust, Svelte, React** e ferramentas voltadas para alta performance — tanto no backend quanto em apps desktop.
 
-## Tech Focus
+---
 
-### Back end
+## 🚀 Tech Stack
+
+### **Backend**
 <div align="left">
 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -13,11 +15,11 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" />
 
 </div>
 
-### Front end
+### **Frontend**
 <div align="left">
 
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -27,7 +29,7 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
-### Apps
+### **Desktop / Apps**
 <div align="left">
 
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
@@ -35,7 +37,7 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
-### Cloud & Server
+### **Cloud, DevOps & Infra**
 <div align="left">
 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -45,33 +47,41 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
-## About me!
+---
 
-- 20y — Full Stack Developer from Brazil 🇧🇷
-- Passionate about performance, backend and modern tools
-- Focused on Go, Rust and Tauri for real applications
-- I love to create things that are quick, simple and useful
-- Always trying to evolve my stack and workflow
+## 🧑‍💻 About Me
 
-## Workflow / Tooling
+- 20y — Developer from Brazil 🇧🇷  
+- Apaixonado por **performance**, **backend** e ferramentas modernas  
+- Focado em **Go, Rust e Tauri** para projetos reais  
+- Curto criar coisas rápidas, diretas e úteis  
+- Sempre evoluindo stack, práticas e produtividade  
+
+---
+
+## ⚙️ Workflow / Tooling
 
 - VSCode  
-- Git + GitHub & BitBucket
-- Docker Compose  
+- Git (GitHub & Bitbucket)  
+- Docker / Docker Compose  
 - Linux (Arch)  
-- Makefiles
+- Makefiles  
 
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=819SauCe&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=819SauCe&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
 ## 📫 Contact
 
-- LinkedIn: viitojooj
-- Discord:  sauce819
-- Email:    joaovitor819oqueres@gmail.com
+- **LinkedIn:** viitojooj  
+- **Discord:** sauce819  
+- **Email:** joaovitor819oqueres@gmail.com  
+
+---
