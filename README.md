@@ -3,6 +3,8 @@
 Full Stack Developer focused on creating fast, modern and scalable applications. Currently focused on Go, Rust, Svelte, React and high performance stacks for backend and desktop.
 
 # Tech Focus
+
+## back end:
 <div style="display: flex; gap: 10px;">
 <img height="45" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img height="45" title="Rust" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
