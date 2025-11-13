@@ -45,3 +45,10 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
+## About me!
+
+- 20y — Full Stack Developer from Brazil 🇧🇷
+- Passionate about performance, backend and modern tools
+- Focused on Go, Rust and Tauri for real applications
+- I love to create things that are quick, simple and useful
+- Always trying to evolve my stack and workflow
