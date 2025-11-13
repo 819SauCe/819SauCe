@@ -24,7 +24,7 @@ Full Stack Developer focused on creating fast, modern and scalable applications.
 
 ### Desktop:
 <div style="display:flex; gap: 10px; align-items:center;">
-<img height="45" title="Tauri" src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" />
+<img height="45" title="Tauri" src="https://cdn.jsdelivr.net/gh/tauri-apps/tauri@dev/app-icon.png" />
 <img height="45" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 <img height="45" title="Rust Backend" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"/>
 </div>
