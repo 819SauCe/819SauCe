@@ -27,7 +27,7 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
-### Desktop
+### Apps
 <div align="left">
 
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
