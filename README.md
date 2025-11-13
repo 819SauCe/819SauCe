@@ -80,8 +80,18 @@ At the moment, my main stack gira em torno de **Go, Rust, Svelte, React** e ferr
 
 ## 📫 Contact
 
-- **LinkedIn:** viitojooj  
-- **Discord:** sauce819  
-- **Email:** joaovitor819oqueres@gmail.com  
+<div align="left">
+  <table>
+       <tr>
+         <td><strong>LinkedIn</strong></td> <td><a href="https://www.linkedin.com/in/viitojooj">linkedin.com/in/viitojooj</a></td>
+       </tr>
+        <tr>
+          <td><strong>Email</strong></td> <td><a href="mailto:joaovitor819oqueres@gmail.com">joaovitor819oqueres@gmail.com</a></td>
+        </tr> 
+         <tr> 
+           <td><strong>Discord</strong></td> <td>sauce819</td> 
+        </tr> 
+  </table>
+</div>
 
 ---
