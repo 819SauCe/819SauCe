@@ -3,11 +3,9 @@
 Full Stack Developer focused on creating fast, modern and scalable applications.  
 Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for backend and desktop.
 
----
+## Tech Focus
 
-## 🚀 Tech Focus
-
-### 🔧 Back end
+### Back end
 <div align="left">
 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -19,9 +17,7 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
----
-
-### 🎨 Front end
+### Front end
 <div align="left">
 
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -31,9 +27,7 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
----
-
-### 🖥️ Desktop
+### Desktop
 <div align="left">
 
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
@@ -41,9 +35,7 @@ Currently focused on **Go, Rust, Svelte, React** and high-performance stacks for
 
 </div>
 
----
-
-### ☁️ Cloud & Server
+### Cloud & Server
 <div align="left">
 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
