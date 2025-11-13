@@ -2,9 +2,9 @@
 
 Full Stack Developer focused on creating fast, modern and scalable applications. Currently focused on Go, Rust, Svelte, React and high performance stacks for backend and desktop.
 
-# Tech Focus
+## Tech Focus
 
-## Back end:
+### Back end:
 <div style="display: flex; gap: 10px;">
 <img height="45" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img height="45" title="Rust" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
@@ -15,10 +15,15 @@ Full Stack Developer focused on creating fast, modern and scalable applications.
 <img height="45" title="NGINX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </div>
 
-## Front end:
+### Front end:
 <div style="display: flex; gap: 10px;">
 <img height="45" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img height="45" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="45" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height="45" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
+### Server
+<div style="display: flex; gap: 10px;">
+<img height="45" title="Tauri" src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/tooling/web/vite/src/assets/logo.svg" />
 </div>
