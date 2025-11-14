@@ -52,10 +52,10 @@ At the moment, my main stack gira em torno de **Go, Rust, Svelte, React** e ferr
 ## 🧑‍💻 About Me
 
 - 20y — Developer from Brazil 🇧🇷  
-- Apaixonado por **performance**, **backend** e ferramentas modernas  
-- Focado em **Go, Rust e Tauri** para projetos reais  
-- Curto criar coisas rápidas, diretas e úteis  
-- Sempre evoluindo stack, práticas e produtividade  
+- Passionate about **performance**, **backend**, and modern tools
+- Focused on **Go, Rust, and Tauri**
+- I like to create things that are quick, direct and useful
+- Always evolving stack, practices, and productivity
 
 ---
 
