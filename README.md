@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Vitor
 
 Full Stack Developer focused on building **fast, modern and scalable applications**.  
-At the moment, my main stack revolves around **Go, Rust, Svelte, React**, and tools built for high performance — both on backend and desktop apps.
+At the moment, my main stack gira em torno de **Go, Rust, Svelte, React** e ferramentas voltadas para alta performance — tanto no backend quanto em apps desktop.
 
 ---
 
@@ -52,10 +52,10 @@ At the moment, my main stack revolves around **Go, Rust, Svelte, React**, and to
 ## 🧑‍💻 About Me
 
 - 20y — Developer from Brazil 🇧🇷  
-- Passionate about **performance**, **backend**, and modern tooling  
-- Focused on **Go, Rust, and Tauri**  
-- I like to create things that are **quick, direct and useful**  
-- Constantly evolving my stack, workflow and productivity
+- Passionate about **performance**, **backend**, and modern tools
+- Focused on **Go, Rust, and Tauri**
+- I like to create things that are quick, direct and useful
+- Always evolving stack, practices, and productivity
 
 ---
 
