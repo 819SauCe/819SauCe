@@ -67,14 +67,6 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 - Linux (Arch)  
 - Makefiles  
 
----
-
-## 📊 GitHub Stats
-
-![My languages](https://gitmystat.vercel.app/api/top-langs?username=819SauCe&layout=compact&langs_count=5)
-
----
-
 ## 📫 Contact
 
 <div align="left">
