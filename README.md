@@ -72,7 +72,7 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="stats-one-lime.vercel.app/api?username=819SauCe&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="stats-94z44rpce-819sauces-projects.vercel.app/api?username=819SauCe&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=819SauCe&layout=compact&theme=tokyonight" />
 </p>
 
