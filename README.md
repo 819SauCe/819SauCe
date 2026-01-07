@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Vitor
+# Supp, I'm Vitor
 
 Full Stack Developer focused on building fast, modern, and scalable applications.
-Currently, my main stack revolves around Go, Rust, Svelte, React, and tools geared towards high performance—both in the backend and in desktop apps.
+Currently, my main stack revolves around Go, Rust, Svelte, React, and tools geared towards high performance both in the backend and in desktop apps.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### **Backend**
 <div align="left">
@@ -49,7 +49,7 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 20y — Developer from Brazil 🇧🇷  
 - Passionate about **performance**, **backend**, and modern tools
@@ -67,7 +67,7 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 - Linux (Arch)  
 - Makefiles  
 
-## 📫 Contact
+## Contact
 
 <div align="left">
   <table>
