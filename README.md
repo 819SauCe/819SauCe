@@ -59,7 +59,7 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 
 ---
 
-## ⚙️ Workflow / Tooling
+## Workflow / Tooling
 
 - VSCode  
 - Git (GitHub & Bitbucket)  
