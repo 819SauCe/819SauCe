@@ -61,11 +61,10 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 
 ## Workflow / Tooling
 
-- VSCode  
+- VSCodium 
 - Git (GitHub & Bitbucket)  
 - Docker / Docker Compose  
-- Linux (Arch)  
-- Makefiles  
+- Linux (Debian) 
 
 ## Contact
 
