@@ -51,20 +51,13 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 
 ## About Me
 
-- 20y — Developer from Brazil 🇧🇷  
+- 21y — Developer from Brazil 🇧🇷  
 - Passionate about **performance**, **backend**, and modern tools
-- Focused on **Go, Rust, and Tauri**
+- Focused on **Golang**
 - I like to create things that are quick, direct and useful
 - Always evolving stack, practices, and productivity
 
 ---
-
-## Workflow / Tooling
-
-- VSCodium 
-- Git (GitHub & Bitbucket)  
-- Docker / Docker Compose  
-- Linux (Debian) 
 
 ## Contact
 
